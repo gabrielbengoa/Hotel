@@ -22,3 +22,54 @@ footer .card-body {
   color: white;
   text-align: center;
 }
+#home1 {
+  background-color: rgba(255, 255, 255, 65%);
+  padding: 40px;
+  margin-bottom: 100px;
+  text-align: justify;
+}
+#home2 {
+  background-color: rgba(255, 255, 255, 65%);
+  padding: 35px;
+  text-align: justify;
+}
+#imgHome {
+  text-align: center;
+}
+#imgHome img {
+  width: 400px;
+  height: 350px;
+  margin: 0 10px;
+  transition: ease 1s;
+  opacity: 75%;
+}
+#imgHome img:hover {
+  cursor: pointer;
+  opacity: 100%;
+}
+#imgLazer img {
+  width: 200px;
+  height: 180px;
+  margin: 10px;
+  cursor: pointer;
+  box-shadow: 5px 5px 10px gray;
+}
+#imgLazer {
+  text-align: center;
+}
+#imgLazer img:hover {
+  opacity: 80%;
+}
+#imgGastro img {
+  width: 200px;
+  height: 180px;
+  margin: 10px;
+  cursor: pointer;
+  box-shadow: 5px 5px 10px gray;
+}
+#imgGastro {
+  text-align: center;
+}
+#imgGastro img:hover {
+  opacity: 80%;
+}
