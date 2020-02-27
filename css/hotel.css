@@ -73,3 +73,16 @@ footer .card-body {
 #imgGastro img:hover {
   opacity: 80%;
 }
+#imgEventos img {
+  width: 200px;
+  height: 180px;
+  margin: 10px;
+  cursor: pointer;
+  box-shadow: 5px 5px 10px gray;
+}
+#imgEventos {
+  text-align: center;
+}
+#imgEventos img:hover {
+  opacity: 80%;
+}
